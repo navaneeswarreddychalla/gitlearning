@@ -52,6 +52,7 @@ if(!empty($_POST['save']))
 	<input type="submit" name="save" value=" Submit "><br><br>
 	<a href="1.registration.html"><input type="button" name="login" value="New User"></a>&nbsp&nbsp&nbsp
 	<a href="3.forgot.html"><input type="button" name="forgot" value="Forgot Username"></a><br><br>
+<p>hello in dev branch</p>
 </center>
 </div>
 </form>
